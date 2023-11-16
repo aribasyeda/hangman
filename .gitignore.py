@@ -1,0 +1,9 @@
+.idea/homework.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+*.out
+*.xml
+*.iml
