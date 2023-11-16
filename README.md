@@ -8,9 +8,3 @@
 
 ### Authors:
 Ariba Syeda
-
-### License:
-This project is open source and all ownership rights are attributed to the author.
-
-
-
